@@ -1,6 +1,5 @@
 # OneNightAtBills
 One Night At Bills'
-Created By Me (Yousof)
 -------------------
 
 This is a game I made based on Five Nights at Freddys. It is a fanmade game but instead in Gravity Falls. It's a very short
