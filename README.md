@@ -33,4 +33,4 @@ I can't draw and would have to get them else where. I think I'd be more interest
 Future Updates:
 I may possibly update this game with small features or fix bugs if there are any.
 
-This game was developed in ClickteamFusion 2.5
+This game was developed in ClickteamFusion 2.5 (so there wasn't much coding)
