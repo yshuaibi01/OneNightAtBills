@@ -1,0 +1,783 @@
+{
+ "objects": {
+  "0": {
+   "handle": 0,
+   "type": 2,
+   "typeName": "Active",
+   "name": "BG",
+   "animations": {
+    "0": {
+     "0": {
+      "frames": [
+       2
+      ],
+      "minSpeed": 50,
+      "maxSpeed": 50,
+      "repeat": 1,
+      "backTo": 0
+     }
+    }
+   },
+   "images": [
+    2
+   ]
+  },
+  "1": {
+   "handle": 1,
+   "type": 2,
+   "typeName": "Active",
+   "name": "Static",
+   "animations": {
+    "0": {
+     "0": {
+      "frames": [
+       37,
+       38,
+       39,
+       40
+      ],
+      "minSpeed": 50,
+      "maxSpeed": 50,
+      "repeat": 0,
+      "backTo": 0
+     }
+    }
+   },
+   "images": [
+    37,
+    38,
+    39,
+    40
+   ]
+  },
+  "2": {
+   "handle": 2,
+   "type": 3,
+   "typeName": "Text",
+   "name": "Title"
+  },
+  "3": {
+   "handle": 3,
+   "type": 3,
+   "typeName": "Text",
+   "name": "String"
+  },
+  "4": {
+   "handle": 4,
+   "type": 2,
+   "typeName": "Active",
+   "name": "newGameButton",
+   "animations": {
+    "0": {
+     "0": {
+      "frames": [
+       13
+      ],
+      "minSpeed": 50,
+      "maxSpeed": 50,
+      "repeat": 1,
+      "backTo": 0
+     }
+    }
+   },
+   "images": [
+    13
+   ]
+  },
+  "5": {
+   "handle": 5,
+   "type": 3,
+   "typeName": "Text",
+   "name": "fullscreenString"
+  },
+  "6": {
+   "handle": 6,
+   "type": 2,
+   "typeName": "Active",
+   "name": "fullscreenToggle",
+   "animations": {
+    "0": {
+     "0": {
+      "frames": [
+       26,
+       29
+      ],
+      "minSpeed": 50,
+      "maxSpeed": 50,
+      "repeat": 1,
+      "backTo": 0
+     }
+    }
+   },
+   "images": [
+    26,
+    29
+   ]
+  },
+  "7": {
+   "handle": 7,
+   "type": 2,
+   "typeName": "Active",
+   "name": "blackBackground",
+   "animations": {
+    "0": {
+     "0": {
+      "frames": [
+       6
+      ],
+      "minSpeed": 50,
+      "maxSpeed": 50,
+      "repeat": 1,
+      "backTo": 0
+     }
+    }
+   },
+   "images": [
+    6
+   ]
+  },
+  "8": {
+   "handle": 8,
+   "type": 3,
+   "typeName": "Text",
+   "name": "String"
+  },
+  "9": {
+   "handle": 9,
+   "type": 2,
+   "typeName": "Active",
+   "name": "Office",
+   "animations": {
+    "0": {
+     "0": {
+      "frames": [
+       18,
+       21,
+       57
+      ],
+      "minSpeed": 50,
+      "maxSpeed": 50,
+      "repeat": 1,
+      "backTo": 0
+     }
+    }
+   },
+   "images": [
+    18,
+    21,
+    57
+   ]
+  },
+  "10": {
+   "handle": 10,
+   "type": 2,
+   "typeName": "Active",
+   "name": "lightButton",
+   "animations": {
+    "0": {
+     "0": {
+      "frames": [
+       42,
+       43
+      ],
+      "minSpeed": 50,
+      "maxSpeed": 50,
+      "repeat": 1,
+      "backTo": 0
+     }
+    }
+   },
+   "images": [
+    42,
+    43
+   ]
+  },
+  "11": {
+   "handle": 11,
+   "type": 2,
+   "typeName": "Active",
+   "name": "Cursor",
+   "animations": {
+    "0": {
+     "0": {
+      "frames": [
+       24,
+       22
+      ],
+      "minSpeed": 50,
+      "maxSpeed": 50,
+      "repeat": 1,
+      "backTo": 0
+     }
+    }
+   },
+   "images": [
+    22,
+    24
+   ]
+  },
+  "12": {
+   "handle": 12,
+   "type": 2,
+   "typeName": "Active",
+   "name": "bouncingBall",
+   "animations": {
+    "0": {
+     "0": {
+      "frames": [
+       28
+      ],
+      "minSpeed": 50,
+      "maxSpeed": 50,
+      "repeat": 1,
+      "backTo": 0
+     }
+    }
+   },
+   "images": [
+    28
+   ]
+  },
+  "13": {
+   "handle": 13,
+   "type": 2,
+   "typeName": "Active",
+   "name": "followMouse",
+   "animations": {
+    "0": {
+     "0": {
+      "frames": [
+       17
+      ],
+      "minSpeed": 50,
+      "maxSpeed": 50,
+      "repeat": 1,
+      "backTo": 0
+     }
+    }
+   },
+   "images": [
+    17
+   ]
+  },
+  "14": {
+   "handle": 14,
+   "type": 32,
+   "typeName": "Ext32",
+   "name": "Perspective"
+  },
+  "15": {
+   "handle": 15,
+   "type": 2,
+   "typeName": "Active",
+   "name": "Darkness",
+   "animations": {
+    "0": {
+     "0": {
+      "frames": [
+       23
+      ],
+      "minSpeed": 50,
+      "maxSpeed": 50,
+      "repeat": 1,
+      "backTo": 0
+     }
+    }
+   },
+   "images": [
+    23
+   ]
+  },
+  "16": {
+   "handle": 16,
+   "type": 2,
+   "typeName": "Active",
+   "name": "doorButton",
+   "animations": {
+    "0": {
+     "0": {
+      "frames": [
+       34,
+       35
+      ],
+      "minSpeed": 50,
+      "maxSpeed": 50,
+      "repeat": 1,
+      "backTo": 0
+     }
+    }
+   },
+   "images": [
+    34,
+    35
+   ]
+  },
+  "17": {
+   "handle": 17,
+   "type": 2,
+   "typeName": "Active",
+   "name": "door",
+   "animations": {
+    "12": {
+     "0": {
+      "frames": [
+       25
+      ],
+      "minSpeed": 50,
+      "maxSpeed": 50,
+      "repeat": 1,
+      "backTo": 0
+     }
+    },
+    "13": {
+     "0": {
+      "frames": [
+       25
+      ],
+      "minSpeed": 50,
+      "maxSpeed": 50,
+      "repeat": 1,
+      "backTo": 0
+     }
+    }
+   },
+   "images": [
+    25
+   ]
+  },
+  "18": {
+   "handle": 18,
+   "type": 2,
+   "typeName": "Active",
+   "name": "cameraToggle",
+   "animations": {
+    "0": {
+     "0": {
+      "frames": [
+       30
+      ],
+      "minSpeed": 50,
+      "maxSpeed": 50,
+      "repeat": 1,
+      "backTo": 0
+     }
+    }
+   },
+   "images": [
+    30
+   ]
+  },
+  "19": {
+   "handle": 19,
+   "type": 2,
+   "typeName": "Active",
+   "name": "monitor",
+   "animations": {
+    "12": {
+     "0": {
+      "frames": [
+       64,
+       65,
+       66,
+       67,
+       68,
+       69,
+       70,
+       71,
+       72
+      ],
+      "minSpeed": 50,
+      "maxSpeed": 50,
+      "repeat": 1,
+      "backTo": 0
+     }
+    },
+    "13": {
+     "0": {
+      "frames": [
+       71,
+       70,
+       69,
+       68,
+       67,
+       66,
+       65,
+       64
+      ],
+      "minSpeed": 50,
+      "maxSpeed": 50,
+      "repeat": 1,
+      "backTo": 0
+     }
+    }
+   },
+   "images": [
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72
+   ]
+  },
+  "20": {
+   "handle": 20,
+   "type": 2,
+   "typeName": "Active",
+   "name": "static",
+   "animations": {
+    "0": {
+     "0": {
+      "frames": [
+       32,
+       33,
+       36,
+       44,
+       32,
+       33,
+       36,
+       44,
+       32,
+       33,
+       36,
+       44,
+       32,
+       33,
+       36,
+       44,
+       32,
+       33
+      ],
+      "minSpeed": 50,
+      "maxSpeed": 50,
+      "repeat": 0,
+      "backTo": 0
+     }
+    }
+   },
+   "images": [
+    32,
+    33,
+    36,
+    44
+   ]
+  },
+  "21": {
+   "handle": 21,
+   "type": 2,
+   "typeName": "Active",
+   "name": "map",
+   "animations": {
+    "0": {
+     "0": {
+      "frames": [
+       31
+      ],
+      "minSpeed": 50,
+      "maxSpeed": 50,
+      "repeat": 1,
+      "backTo": 0
+     }
+    }
+   },
+   "images": [
+    31
+   ]
+  },
+  "22": {
+   "handle": 22,
+   "type": 2,
+   "typeName": "Active",
+   "name": "cameras",
+   "animations": {
+    "0": {
+     "0": {
+      "frames": [
+       48,
+       45,
+       46,
+       47,
+       49,
+       50,
+       19,
+       52,
+       53,
+       55,
+       56
+      ],
+      "minSpeed": 50,
+      "maxSpeed": 50,
+      "repeat": 1,
+      "backTo": 0
+     }
+    }
+   },
+   "images": [
+    19,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    52,
+    53,
+    55,
+    56
+   ]
+  },
+  "23": {
+   "handle": 23,
+   "type": 2,
+   "typeName": "Active",
+   "name": "cam1Button",
+   "animations": {
+    "0": {
+     "0": {
+      "frames": [
+       60
+      ],
+      "minSpeed": 50,
+      "maxSpeed": 50,
+      "repeat": 1,
+      "backTo": 0
+     }
+    }
+   },
+   "images": [
+    60
+   ]
+  },
+  "24": {
+   "handle": 24,
+   "type": 2,
+   "typeName": "Active",
+   "name": "cam4Button",
+   "animations": {
+    "0": {
+     "0": {
+      "frames": [
+       20
+      ],
+      "minSpeed": 50,
+      "maxSpeed": 50,
+      "repeat": 1,
+      "backTo": 0
+     }
+    }
+   },
+   "images": [
+    20
+   ]
+  },
+  "25": {
+   "handle": 25,
+   "type": 2,
+   "typeName": "Active",
+   "name": "cam3Button",
+   "animations": {
+    "0": {
+     "0": {
+      "frames": [
+       54
+      ],
+      "minSpeed": 50,
+      "maxSpeed": 50,
+      "repeat": 1,
+      "backTo": 0
+     }
+    }
+   },
+   "images": [
+    54
+   ]
+  },
+  "26": {
+   "handle": 26,
+   "type": 2,
+   "typeName": "Active",
+   "name": "cam2Button",
+   "animations": {
+    "0": {
+     "0": {
+      "frames": [
+       51
+      ],
+      "minSpeed": 50,
+      "maxSpeed": 50,
+      "repeat": 1,
+      "backTo": 0
+     }
+    }
+   },
+   "images": [
+    51
+   ]
+  },
+  "27": {
+   "handle": 27,
+   "type": 3,
+   "typeName": "Text",
+   "name": "cameraIndicator"
+  },
+  "28": {
+   "handle": 28,
+   "type": 3,
+   "typeName": "Text",
+   "name": "powerIndicator"
+  },
+  "29": {
+   "handle": 29,
+   "type": 2,
+   "typeName": "Active",
+   "name": "jumpscare",
+   "animations": {
+    "0": {
+     "0": {
+      "frames": [
+       85,
+       86,
+       87,
+       88,
+       89,
+       90
+      ],
+      "minSpeed": 50,
+      "maxSpeed": 50,
+      "repeat": 1,
+      "backTo": 0
+     }
+    }
+   },
+   "images": [
+    85,
+    86,
+    87,
+    88,
+    89,
+    90
+   ]
+  },
+  "30": {
+   "handle": 30,
+   "type": 2,
+   "typeName": "Active",
+   "name": "poweroutface",
+   "animations": {
+    "0": {
+     "0": {
+      "frames": [
+       61
+      ],
+      "minSpeed": 50,
+      "maxSpeed": 50,
+      "repeat": 1,
+      "backTo": 0
+     }
+    }
+   },
+   "images": [
+    61
+   ]
+  },
+  "31": {
+   "handle": 31,
+   "type": 3,
+   "typeName": "Text",
+   "name": "clock"
+  },
+  "32": {
+   "handle": 32,
+   "type": 1,
+   "typeName": "Backdrop",
+   "name": "Backdrop",
+   "images": [
+    62
+   ],
+   "size": [
+    1280,
+    720
+   ]
+  },
+  "33": {
+   "handle": 33,
+   "type": 3,
+   "typeName": "Text",
+   "name": "String"
+  },
+  "34": {
+   "handle": 34,
+   "type": 2,
+   "typeName": "Active",
+   "name": "backdrop",
+   "animations": {
+    "0": {
+     "0": {
+      "frames": [
+       58
+      ],
+      "minSpeed": 50,
+      "maxSpeed": 50,
+      "repeat": 1,
+      "backTo": 0
+     }
+    }
+   },
+   "images": [
+    58
+   ]
+  },
+  "35": {
+   "handle": 35,
+   "type": 2,
+   "typeName": "Active",
+   "name": "static",
+   "animations": {
+    "0": {
+     "0": {
+      "frames": [
+       32,
+       33,
+       36,
+       44,
+       32,
+       33,
+       36,
+       44,
+       32,
+       33,
+       36,
+       44,
+       32,
+       33,
+       36,
+       44,
+       32,
+       33,
+       36
+      ],
+      "minSpeed": 50,
+      "maxSpeed": 50,
+      "repeat": 1,
+      "backTo": 0
+     }
+    }
+   },
+   "images": [
+    32,
+    33,
+    36,
+    44
+   ]
+  },
+  "36": {
+   "handle": 36,
+   "type": 3,
+   "typeName": "Text",
+   "name": "gameovertext"
+  }
+ }
+}

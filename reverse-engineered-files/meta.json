@@ -1,0 +1,565 @@
+{
+ "appName": "One Night At Bills",
+ "copyright": "",
+ "editorFile": "C:\\Users\\Yousof\\Desktop\\FNAF Game\\One Night At Bills' (many changes).mfa",
+ "targetFile": "C:\\Users\\Yousof\\Desktop\\One Night At Bills'.exe",
+ "build": 292,
+ "frames": [
+  {
+   "index": 0,
+   "name": "Menu",
+   "subchunks": {
+    "13108": [
+     3,
+     32
+    ],
+    "13132": [
+     0,
+     4
+    ],
+    "13122": [
+     3,
+     26
+    ],
+    "13109": [
+     1,
+     26
+    ],
+    "13111": [
+     3,
+     762
+    ],
+    "13121": [
+     3,
+     46
+    ],
+    "13125": [
+     3,
+     27
+    ],
+    "13112": [
+     3,
+     90
+    ],
+    "13117": [
+     3,
+     545
+    ],
+    "13127": [
+     0,
+     4
+    ],
+    "13129": [
+     1,
+     25
+    ]
+   },
+   "instances": [
+    {
+     "obj": 0,
+     "name": "BG",
+     "type": "Active",
+     "x": 639,
+     "y": 357,
+     "layer": 0
+    },
+    {
+     "obj": 1,
+     "name": "Static",
+     "type": "Active",
+     "x": 637,
+     "y": 354,
+     "layer": 0
+    },
+    {
+     "obj": 2,
+     "name": "Title",
+     "type": "Text",
+     "x": 71,
+     "y": 9,
+     "layer": 0
+    },
+    {
+     "obj": 3,
+     "name": "String",
+     "type": "Text",
+     "x": 29,
+     "y": 465,
+     "layer": 1
+    },
+    {
+     "obj": 4,
+     "name": "newGameButton",
+     "type": "Active",
+     "x": 130,
+     "y": 499,
+     "layer": 1
+    },
+    {
+     "obj": 5,
+     "name": "fullscreenString",
+     "type": "Text",
+     "x": 29,
+     "y": 556,
+     "layer": 1
+    },
+    {
+     "obj": 6,
+     "name": "fullscreenToggle",
+     "type": "Active",
+     "x": 282,
+     "y": 593,
+     "layer": 1
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "name": "nightOneLoading",
+   "subchunks": {
+    "13108": [
+     3,
+     32
+    ],
+    "13132": [
+     0,
+     4
+    ],
+    "13122": [
+     3,
+     26
+    ],
+    "13109": [
+     1,
+     45
+    ],
+    "13111": [
+     3,
+     762
+    ],
+    "13121": [
+     3,
+     43
+    ],
+    "13125": [
+     3,
+     25
+    ],
+    "13112": [
+     3,
+     44
+    ],
+    "13117": [
+     3,
+     377
+    ],
+    "13127": [
+     0,
+     4
+    ],
+    "13129": [
+     1,
+     25
+    ]
+   },
+   "instances": [
+    {
+     "obj": 7,
+     "name": "blackBackground",
+     "type": "Active",
+     "x": 600,
+     "y": 337,
+     "layer": 0
+    },
+    {
+     "obj": 8,
+     "name": "String",
+     "type": "Text",
+     "x": 396,
+     "y": 293,
+     "layer": 0
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "name": "nightOne",
+   "subchunks": {
+    "13108": [
+     3,
+     32
+    ],
+    "13132": [
+     0,
+     4
+    ],
+    "13122": [
+     3,
+     26
+    ],
+    "13109": [
+     1,
+     34
+    ],
+    "13111": [
+     3,
+     762
+    ],
+    "13121": [
+     3,
+     63
+    ],
+    "13125": [
+     3,
+     27
+    ],
+    "13112": [
+     3,
+     242
+    ],
+    "13117": [
+     3,
+     3358
+    ],
+    "13127": [
+     0,
+     4
+    ],
+    "13129": [
+     1,
+     25
+    ]
+   },
+   "instances": [
+    {
+     "obj": 9,
+     "name": "Office",
+     "type": "Active",
+     "x": 749,
+     "y": 359,
+     "layer": 0
+    },
+    {
+     "obj": 10,
+     "name": "lightButton",
+     "type": "Active",
+     "x": 921,
+     "y": 307,
+     "layer": 0
+    },
+    {
+     "obj": 12,
+     "name": "bouncingBall",
+     "type": "Active",
+     "x": 1231,
+     "y": 303,
+     "layer": 0
+    },
+    {
+     "obj": 13,
+     "name": "followMouse",
+     "type": "Active",
+     "x": 672,
+     "y": 352,
+     "layer": 0
+    },
+    {
+     "obj": 16,
+     "name": "doorButton",
+     "type": "Active",
+     "x": 921,
+     "y": 392,
+     "layer": 0
+    },
+    {
+     "obj": 17,
+     "name": "door",
+     "type": "Active",
+     "x": 1068,
+     "y": 197,
+     "layer": 0
+    },
+    {
+     "obj": 14,
+     "name": "Perspective",
+     "type": "Ext32",
+     "x": 0,
+     "y": 0,
+     "layer": 1
+    },
+    {
+     "obj": 22,
+     "name": "cameras",
+     "type": "Active",
+     "x": 640,
+     "y": 360,
+     "layer": 2
+    },
+    {
+     "obj": 15,
+     "name": "Darkness",
+     "type": "Active",
+     "x": 703,
+     "y": 337,
+     "layer": 3
+    },
+    {
+     "obj": 20,
+     "name": "static",
+     "type": "Active",
+     "x": 640,
+     "y": 360,
+     "layer": 4
+    },
+    {
+     "obj": 21,
+     "name": "map",
+     "type": "Active",
+     "x": 1101,
+     "y": 150,
+     "layer": 4
+    },
+    {
+     "obj": 23,
+     "name": "cam1Button",
+     "type": "Active",
+     "x": 1079,
+     "y": 49,
+     "layer": 4
+    },
+    {
+     "obj": 24,
+     "name": "cam4Button",
+     "type": "Active",
+     "x": 1086,
+     "y": 261,
+     "layer": 4
+    },
+    {
+     "obj": 25,
+     "name": "cam3Button",
+     "type": "Active",
+     "x": 1114,
+     "y": 125,
+     "layer": 4
+    },
+    {
+     "obj": 26,
+     "name": "cam2Button",
+     "type": "Active",
+     "x": 1195,
+     "y": 96,
+     "layer": 4
+    },
+    {
+     "obj": 27,
+     "name": "cameraIndicator",
+     "type": "Text",
+     "x": 788,
+     "y": 318,
+     "layer": 4
+    },
+    {
+     "obj": 28,
+     "name": "powerIndicator",
+     "type": "Text",
+     "x": 4,
+     "y": 14,
+     "layer": 4
+    },
+    {
+     "obj": 29,
+     "name": "jumpscare",
+     "type": "Active",
+     "x": 640,
+     "y": 360,
+     "layer": 4
+    },
+    {
+     "obj": 30,
+     "name": "poweroutface",
+     "type": "Active",
+     "x": 685,
+     "y": 366,
+     "layer": 4
+    },
+    {
+     "obj": 31,
+     "name": "clock",
+     "type": "Text",
+     "x": 1117,
+     "y": 10,
+     "layer": 4
+    },
+    {
+     "obj": 18,
+     "name": "cameraToggle",
+     "type": "Active",
+     "x": 695,
+     "y": 672,
+     "layer": 5
+    },
+    {
+     "obj": 11,
+     "name": "Cursor",
+     "type": "Active",
+     "x": 917,
+     "y": 306,
+     "layer": 5
+    },
+    {
+     "obj": 19,
+     "name": "monitor",
+     "type": "Active",
+     "x": 707,
+     "y": 11,
+     "layer": 6
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "name": "6AM",
+   "subchunks": {
+    "13108": [
+     3,
+     32
+    ],
+    "13132": [
+     0,
+     4
+    ],
+    "13122": [
+     3,
+     26
+    ],
+    "13109": [
+     1,
+     24
+    ],
+    "13111": [
+     3,
+     762
+    ],
+    "13121": [
+     3,
+     45
+    ],
+    "13125": [
+     3,
+     25
+    ],
+    "13112": [
+     3,
+     39
+    ],
+    "13117": [
+     3,
+     440
+    ],
+    "13127": [
+     0,
+     4
+    ],
+    "13129": [
+     1,
+     25
+    ]
+   },
+   "instances": [
+    {
+     "obj": 32,
+     "name": "Backdrop",
+     "type": "Backdrop",
+     "x": 0,
+     "y": 0,
+     "layer": 0
+    },
+    {
+     "obj": 33,
+     "name": "String",
+     "type": "Text",
+     "x": 280,
+     "y": 267,
+     "layer": 0
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "name": "deathscreen",
+   "subchunks": {
+    "13108": [
+     3,
+     32
+    ],
+    "13132": [
+     0,
+     4
+    ],
+    "13122": [
+     3,
+     26
+    ],
+    "13109": [
+     1,
+     38
+    ],
+    "13111": [
+     3,
+     762
+    ],
+    "13121": [
+     3,
+     50
+    ],
+    "13125": [
+     3,
+     27
+    ],
+    "13112": [
+     3,
+     51
+    ],
+    "13117": [
+     3,
+     587
+    ],
+    "13127": [
+     0,
+     4
+    ],
+    "13129": [
+     1,
+     25
+    ]
+   },
+   "instances": [
+    {
+     "obj": 34,
+     "name": "backdrop",
+     "type": "Active",
+     "x": 639,
+     "y": 359,
+     "layer": 0
+    },
+    {
+     "obj": 35,
+     "name": "static",
+     "type": "Active",
+     "x": 639,
+     "y": 359,
+     "layer": 0
+    },
+    {
+     "obj": 36,
+     "name": "gameovertext",
+     "type": "Text",
+     "x": 416,
+     "y": 288,
+     "layer": 0
+    }
+   ]
+  }
+ ]
+}

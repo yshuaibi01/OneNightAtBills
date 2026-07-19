@@ -1,0 +1,114 @@
+Frame 0:
+  newGameButton
+  fullscreenToggle
+  mainMenu
+  fullscreen
+  "fullscreenOff
+  "fullscreenOff
+   fullscreenOn
+   fullscreenOn
+
+Frame 1:
+  nightStart
+  fullscreen
+  "fullscreenOff
+   fullscreenOn
+
+Frame 2:
+  cursorChange
+  Scrollings
+  lightButton
+  lightOn
+  Push Button Light Switch Sound Effect - No Copyright (HD) (mp3c
+  lightOn
+  lightOff
+  Push Button Light Switch Sound Effect - No Copyright (HD) (mp3c
+  lightOff
+  door
+  closing
+  doorClosed
+  Wood Door   Open Close [SOUND EFFECT] (mp3cut.net)
+  doorClosed
+  opening
+  doorOpen
+  Door Open (Sound Effect) (mp3cut.net)
+  doorOpen
+  monitorAnimation
+  camUp
+  cameraClick
+  camUp
+  camDown
+  cameraClick
+  camDown
+  cameraSwitch
+  Family Room
+  cameraClick
+  Entrance
+  cameraClick
+  Basement
+  cameraClick
+  "Behind You...
+  cameraClick
+  Entrance
+  Camera 
+   : 
+  updateCamera
+  billAI
+  $staticReappear
+  $staticReappear
+  $staticReappear
+  billJumpscare
+  "billJumpscare
+  "billJumpscare
+  deathscreen
+  jumpscareYell
+  deathscreen
+  cursorChange2
+  power
+   Power Left: 
+  powerout
+  powerout
+  lightButton
+  powerout
+  doorOpen
+  opening
+  powerout
+  camDown
+  powerout
+  poweroutjumpscare
+  powerout
+   poweroutface
+   poweroutface
+   powerouthide
+   powerouthide
+  "billJumpscare
+  time
+  12 A.M.
+   A.M.
+  endnight
+  endnight
+  Nighttime Forest Sounds
+  fullscreen
+  "fullscreenOff
+   fullscreenOn
+
+Frame 3:
+  6amfadein
+  6AMSound (3)
+  6amfadein
+  fullscreen
+  "fullscreenOff
+   fullscreenOn
+
+Frame 4:
+  fadein
+  gameOverLaugh
+  "staticfadeout
+  $gameoverfadein
+  "staticfadeout
+  $gameoverfadein
+  returntomenu
+  fullscreen
+  "fullscreenOff
+   fullscreenOn
+
